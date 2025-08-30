@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/</loc>
+    <lastmod>2025-08-30T22:45:38+08:00</lastmod>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/post/</loc>
+    <lastmod>2025-08-30T22:45:38+08:00</lastmod>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/p/%E6%AC%A2%E8%BF%8E%E8%BF%99%E9%87%8C%E6%98%AFblog-test/</loc>
+    <lastmod>2025-08-30T22:45:38+08:00</lastmod>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/categories/</loc>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/tags/</loc>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/categories/test/</loc>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/search/</loc>
+  </url><url>
+    <loc>https://BBNGOwO.github.io/my-hugo-site/%E5%8F%8B%E9%93%BE/</loc>
+  </url>
+</urlset>

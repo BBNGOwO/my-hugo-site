@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 贝贝南瓜OwO</title>
+        <link>https://BBNGOwO.github.io/my-hugo-site/post/</link>
+        <description>Recent content in Posts on 贝贝南瓜OwO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 30 Aug 2025 22:45:38 +0800</lastBuildDate><atom:link href="https://BBNGOwO.github.io/my-hugo-site/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>欢迎！这里是blog Test</title>
+        <link>https://BBNGOwO.github.io/my-hugo-site/p/%E6%AC%A2%E8%BF%8E%E8%BF%99%E9%87%8C%E6%98%AFblog-test/</link>
+        <pubDate>Sat, 30 Aug 2025 22:45:38 +0800</pubDate>
+        
+        <guid>https://BBNGOwO.github.io/my-hugo-site/p/%E6%AC%A2%E8%BF%8E%E8%BF%99%E9%87%8C%E6%98%AFblog-test/</guid>
+        <description>&lt;p&gt;如你所见，这是一篇博客的测试文章！&lt;/p&gt;
+&lt;p&gt;后续南瓜会在此静态博客上面&lt;/p&gt;
+&lt;p&gt;发布自己的资源呢&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
